@@ -9,7 +9,7 @@ from pathlib import Path
 
 # --- Settings you may want to change ---------------------------------------
 FEED_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
-COUNTRIES = {"USD"}  # e.g. {"USD", "EUR"}
+COUNTRIES = {"USD", "EUR", "GBP", "JPY", "AUD", "CAD", "NZD", "CHF"}  # e.g. {"USD", "EUR"}
 IMPACTS = {"High"}  # feed values: "High", "Medium", "Low", "Holiday"
 KEEP_DAYS = 45  # how long past events stay in the calendar
 EVENT_MINUTES = 15  # length of each calendar entry
