@@ -71,7 +71,10 @@ class TestSelectEvents(unittest.TestCase):
             item("Crude Oil Inventories", "2026-09-24T10:30:00-04:00", impact="Low"),
         ]
         events, skipped = bc.select_events(feed)
-        self.assertEqual([e["title"] for e in events.values()], ["CPI m/m"])
+        self.assertEqual(
+        [e["title"] for e in events.values()],
+        ["CPI m/m", "German CPI"]
+        )
         self.assertEqual(skipped, 0)
 
     def test_counts_unusable_items(self):
