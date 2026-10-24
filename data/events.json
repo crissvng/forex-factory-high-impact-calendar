@@ -133,5 +133,50 @@
     "forecast": "",
     "previous": "",
     "stamp": "20261011T112455Z"
+  },
+  "d147922a0512933f0b6b@usd-high-impact": {
+    "uid": "d147922a0512933f0b6b@usd-high-impact",
+    "country": "CAD",
+    "title": "CPI m/m",
+    "start": "2026-10-19T12:30:00+00:00",
+    "forecast": "0.2%",
+    "previous": "-0.1%",
+    "stamp": "20261024T093028Z"
+  },
+  "c014c901a7a795a8d558@usd-high-impact": {
+    "uid": "c014c901a7a795a8d558@usd-high-impact",
+    "country": "CAD",
+    "title": "Median CPI y/y",
+    "start": "2026-10-19T12:30:00+00:00",
+    "forecast": "2.0%",
+    "previous": "2.0%",
+    "stamp": "20261024T093028Z"
+  },
+  "070e22aea9f56f0fa9eb@usd-high-impact": {
+    "uid": "070e22aea9f56f0fa9eb@usd-high-impact",
+    "country": "CAD",
+    "title": "Trimmed CPI y/y",
+    "start": "2026-10-19T12:30:00+00:00",
+    "forecast": "1.9%",
+    "previous": "1.9%",
+    "stamp": "20261024T093028Z"
+  },
+  "efa22046d5c62d19bc67@usd-high-impact": {
+    "uid": "efa22046d5c62d19bc67@usd-high-impact",
+    "country": "GBP",
+    "title": "CPI y/y",
+    "start": "2026-10-21T06:00:00+00:00",
+    "forecast": "3.4%",
+    "previous": "3.1%",
+    "stamp": "20261024T093028Z"
+  },
+  "9dd0f92d962393f0df66@usd-high-impact": {
+    "uid": "9dd0f92d962393f0df66@usd-high-impact",
+    "country": "NZD",
+    "title": "CPI q/q",
+    "start": "2026-10-21T21:45:00+00:00",
+    "forecast": "0.8%",
+    "previous": "1.5%",
+    "stamp": "20261024T093028Z"
   }
 }
