@@ -178,5 +178,212 @@
     "forecast": "0.8%",
     "previous": "1.5%",
     "stamp": "20261024T093028Z"
+  },
+  "9e47258de487dfbe9399@usd-high-impact": {
+    "uid": "9e47258de487dfbe9399@usd-high-impact",
+    "country": "AUD",
+    "title": "CPI m/m",
+    "start": "2026-10-28T00:30:00+00:00",
+    "forecast": "0.7%",
+    "previous": "0.4%",
+    "stamp": "20261025T094704Z"
+  },
+  "b0ba3a38529ced7a69c1@usd-high-impact": {
+    "uid": "b0ba3a38529ced7a69c1@usd-high-impact",
+    "country": "AUD",
+    "title": "CPI y/y",
+    "start": "2026-10-28T00:30:00+00:00",
+    "forecast": "4.2%",
+    "previous": "4.0%",
+    "stamp": "20261025T094704Z"
+  },
+  "98394495e694bb62ad6f@usd-high-impact": {
+    "uid": "98394495e694bb62ad6f@usd-high-impact",
+    "country": "AUD",
+    "title": "Trimmed Mean CPI m/m",
+    "start": "2026-10-28T00:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.2%",
+    "stamp": "20261025T094704Z"
+  },
+  "d5c2f7def48d3cdd2b10@usd-high-impact": {
+    "uid": "d5c2f7def48d3cdd2b10@usd-high-impact",
+    "country": "NZD",
+    "title": "Official Cash Rate",
+    "start": "2026-10-28T01:00:00+00:00",
+    "forecast": "3.00%",
+    "previous": "2.75%",
+    "stamp": "20261025T094704Z"
+  },
+  "9afb04f37ac2ccb66381@usd-high-impact": {
+    "uid": "9afb04f37ac2ccb66381@usd-high-impact",
+    "country": "NZD",
+    "title": "RBNZ Rate Statement",
+    "start": "2026-10-28T01:00:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "255c52a72441226f90f1@usd-high-impact": {
+    "uid": "255c52a72441226f90f1@usd-high-impact",
+    "country": "NZD",
+    "title": "RBNZ Press Conference",
+    "start": "2026-10-28T02:00:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "41bc2e8f56601c544262@usd-high-impact": {
+    "uid": "41bc2e8f56601c544262@usd-high-impact",
+    "country": "GBP",
+    "title": "Annual Budget Release",
+    "start": "2026-10-28T12:30:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "4bad87c5002a4549d75e@usd-high-impact": {
+    "uid": "4bad87c5002a4549d75e@usd-high-impact",
+    "country": "CAD",
+    "title": "BOC Monetary Policy Report",
+    "start": "2026-10-28T13:45:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "d0f60e3118cec0aec261@usd-high-impact": {
+    "uid": "d0f60e3118cec0aec261@usd-high-impact",
+    "country": "CAD",
+    "title": "BOC Rate Statement",
+    "start": "2026-10-28T13:45:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "889c3928a0985b89f205@usd-high-impact": {
+    "uid": "889c3928a0985b89f205@usd-high-impact",
+    "country": "CAD",
+    "title": "Overnight Rate",
+    "start": "2026-10-28T13:45:00+00:00",
+    "forecast": "2.50%",
+    "previous": "2.25%",
+    "stamp": "20261025T094704Z"
+  },
+  "4b49fae0c8789e25a4f9@usd-high-impact": {
+    "uid": "4b49fae0c8789e25a4f9@usd-high-impact",
+    "country": "CAD",
+    "title": "BOC Press Conference",
+    "start": "2026-10-28T14:30:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "13fe7deab254b70f351f@usd-high-impact": {
+    "uid": "13fe7deab254b70f351f@usd-high-impact",
+    "country": "USD",
+    "title": "FOMC Statement",
+    "start": "2026-10-28T18:00:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "5c86759277592db5c7de@usd-high-impact": {
+    "uid": "5c86759277592db5c7de@usd-high-impact",
+    "country": "USD",
+    "title": "Federal Funds Rate",
+    "start": "2026-10-28T18:00:00+00:00",
+    "forecast": "4.00%",
+    "previous": "4.00%",
+    "stamp": "20261025T094704Z"
+  },
+  "b21f821bb38f5dc40455@usd-high-impact": {
+    "uid": "b21f821bb38f5dc40455@usd-high-impact",
+    "country": "USD",
+    "title": "FOMC Press Conference",
+    "start": "2026-10-28T18:30:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "e0bf3b287fc7cca7995d@usd-high-impact": {
+    "uid": "e0bf3b287fc7cca7995d@usd-high-impact",
+    "country": "USD",
+    "title": "Advance GDP q/q",
+    "start": "2026-10-29T12:30:00+00:00",
+    "forecast": "3.2%",
+    "previous": "1.5%",
+    "stamp": "20261025T094704Z"
+  },
+  "6d8ef5e268f7be415762@usd-high-impact": {
+    "uid": "6d8ef5e268f7be415762@usd-high-impact",
+    "country": "USD",
+    "title": "Core PCE Price Index m/m",
+    "start": "2026-10-29T12:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.2%",
+    "stamp": "20261025T094704Z"
+  },
+  "88a505613d6d8579c933@usd-high-impact": {
+    "uid": "88a505613d6d8579c933@usd-high-impact",
+    "country": "EUR",
+    "title": "Main Refinancing Rate",
+    "start": "2026-10-29T13:15:00+00:00",
+    "forecast": "2.65%",
+    "previous": "2.65%",
+    "stamp": "20261025T094704Z"
+  },
+  "8a521b95298d459a71fa@usd-high-impact": {
+    "uid": "8a521b95298d459a71fa@usd-high-impact",
+    "country": "EUR",
+    "title": "Monetary Policy Statement",
+    "start": "2026-10-29T13:15:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "aa232052a316a885d59d@usd-high-impact": {
+    "uid": "aa232052a316a885d59d@usd-high-impact",
+    "country": "EUR",
+    "title": "ECB Press Conference",
+    "start": "2026-10-29T13:45:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "dc3a92e32d3d730d14b8@usd-high-impact": {
+    "uid": "dc3a92e32d3d730d14b8@usd-high-impact",
+    "country": "JPY",
+    "title": "BOJ Policy Rate",
+    "start": "2026-10-30T02:30:00+00:00",
+    "forecast": "<1.25%",
+    "previous": "<1.25%",
+    "stamp": "20261025T094704Z"
+  },
+  "155b39bb5739a716d42b@usd-high-impact": {
+    "uid": "155b39bb5739a716d42b@usd-high-impact",
+    "country": "JPY",
+    "title": "Monetary Policy Statement",
+    "start": "2026-10-30T02:30:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "77578cd63c86a0a6752a@usd-high-impact": {
+    "uid": "77578cd63c86a0a6752a@usd-high-impact",
+    "country": "JPY",
+    "title": "BOJ Outlook Report",
+    "start": "2026-10-30T02:31:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
+  },
+  "88b545b55e874ae5cba3@usd-high-impact": {
+    "uid": "88b545b55e874ae5cba3@usd-high-impact",
+    "country": "JPY",
+    "title": "BOJ Press Conference",
+    "start": "2026-10-30T05:30:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261025T094704Z"
   }
 }
