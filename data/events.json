@@ -350,40 +350,40 @@
     "previous": "",
     "stamp": "20261025T094704Z"
   },
-  "dc3a92e32d3d730d14b8@usd-high-impact": {
-    "uid": "dc3a92e32d3d730d14b8@usd-high-impact",
-    "country": "JPY",
-    "title": "BOJ Policy Rate",
-    "start": "2026-10-30T02:30:00+00:00",
-    "forecast": "<1.25%",
-    "previous": "<1.25%",
-    "stamp": "20261025T094704Z"
-  },
-  "155b39bb5739a716d42b@usd-high-impact": {
-    "uid": "155b39bb5739a716d42b@usd-high-impact",
-    "country": "JPY",
-    "title": "Monetary Policy Statement",
-    "start": "2026-10-30T02:30:00+00:00",
-    "forecast": "",
-    "previous": "",
-    "stamp": "20261025T094704Z"
-  },
-  "77578cd63c86a0a6752a@usd-high-impact": {
-    "uid": "77578cd63c86a0a6752a@usd-high-impact",
+  "d2a38630de0b6846de43@usd-high-impact": {
+    "uid": "d2a38630de0b6846de43@usd-high-impact",
     "country": "JPY",
     "title": "BOJ Outlook Report",
-    "start": "2026-10-30T02:31:00+00:00",
+    "start": "2026-10-30T03:02:00+00:00",
     "forecast": "",
     "previous": "",
-    "stamp": "20261025T094704Z"
+    "stamp": "20261030T112159Z"
   },
-  "88b545b55e874ae5cba3@usd-high-impact": {
-    "uid": "88b545b55e874ae5cba3@usd-high-impact",
+  "523d376b7f5880a6ec66@usd-high-impact": {
+    "uid": "523d376b7f5880a6ec66@usd-high-impact",
+    "country": "JPY",
+    "title": "BOJ Policy Rate",
+    "start": "2026-10-30T03:02:00+00:00",
+    "forecast": "<1.25%",
+    "previous": "<1.25%",
+    "stamp": "20261030T112159Z"
+  },
+  "366ad12b279da750c1cf@usd-high-impact": {
+    "uid": "366ad12b279da750c1cf@usd-high-impact",
+    "country": "JPY",
+    "title": "Monetary Policy Statement",
+    "start": "2026-10-30T03:02:00+00:00",
+    "forecast": "",
+    "previous": "",
+    "stamp": "20261030T112159Z"
+  },
+  "0c68d386643b00fefe1d@usd-high-impact": {
+    "uid": "0c68d386643b00fefe1d@usd-high-impact",
     "country": "JPY",
     "title": "BOJ Press Conference",
-    "start": "2026-10-30T05:30:00+00:00",
+    "start": "2026-10-30T06:30:00+00:00",
     "forecast": "",
     "previous": "",
-    "stamp": "20261025T094704Z"
+    "stamp": "20261030T112159Z"
   }
 }
