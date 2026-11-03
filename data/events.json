@@ -508,18 +508,18 @@
     "country": "CAD",
     "title": "Employment Change",
     "start": "2026-11-06T13:30:00+00:00",
-    "forecast": "14.5K",
+    "forecast": "14.6K",
     "previous": "-68.3K",
-    "stamp": "20261101T114840Z"
+    "stamp": "20261103T124519Z"
   },
   "d3551f4453bed93f9d37@usd-high-impact": {
     "uid": "d3551f4453bed93f9d37@usd-high-impact",
     "country": "USD",
     "title": "Non-Farm Employment Change",
     "start": "2026-11-06T13:30:00+00:00",
-    "forecast": "63K",
+    "forecast": "65K",
     "previous": "29K",
-    "stamp": "20261101T114840Z"
+    "stamp": "20261103T124519Z"
   },
   "a6cf401ce4ff567a094d@usd-high-impact": {
     "uid": "a6cf401ce4ff567a094d@usd-high-impact",
