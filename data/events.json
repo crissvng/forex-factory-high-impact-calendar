@@ -625,9 +625,9 @@
     "country": "USD",
     "title": "Retail Sales m/m",
     "start": "2026-11-17T13:30:00+00:00",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "0.8%",
-    "stamp": "20261115T124152Z"
+    "stamp": "20261117T142014Z"
   },
   "482daafa5d8a7e77a8a3@usd-high-impact": {
     "uid": "482daafa5d8a7e77a8a3@usd-high-impact",
@@ -661,9 +661,9 @@
     "country": "AUD",
     "title": "Employment Change",
     "start": "2026-11-19T00:30:00+00:00",
-    "forecast": "25.2K",
+    "forecast": "25.5K",
     "previous": "-39.3K",
-    "stamp": "20261115T124152Z"
+    "stamp": "20261117T142014Z"
   },
   "873e055c64759e0d0b85@usd-high-impact": {
     "uid": "873e055c64759e0d0b85@usd-high-impact",
