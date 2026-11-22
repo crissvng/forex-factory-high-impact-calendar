@@ -1,13 +1,4 @@
 {
-  "5ead558dc50032f84fbd@usd-high-impact": {
-    "uid": "5ead558dc50032f84fbd@usd-high-impact",
-    "country": "USD",
-    "title": "FOMC Meeting Minutes",
-    "start": "2026-10-07T18:00:00+00:00",
-    "forecast": "",
-    "previous": "",
-    "stamp": "20261004T110718Z"
-  },
   "46e35e09930605dfd62f@usd-high-impact": {
     "uid": "46e35e09930605dfd62f@usd-high-impact",
     "country": "USD",
@@ -673,5 +664,50 @@
     "forecast": "4.7%",
     "previous": "4.7%",
     "stamp": "20261115T124152Z"
+  },
+  "d3b56e7e68593d87d00c@usd-high-impact": {
+    "uid": "d3b56e7e68593d87d00c@usd-high-impact",
+    "country": "AUD",
+    "title": "CPI m/m",
+    "start": "2026-11-25T00:30:00+00:00",
+    "forecast": "0.4%",
+    "previous": "0.8%",
+    "stamp": "20261122T131735Z"
+  },
+  "44619825d36c8f700813@usd-high-impact": {
+    "uid": "44619825d36c8f700813@usd-high-impact",
+    "country": "AUD",
+    "title": "CPI y/y",
+    "start": "2026-11-25T00:30:00+00:00",
+    "forecast": "4.8%",
+    "previous": "4.3%",
+    "stamp": "20261122T131735Z"
+  },
+  "8e2f4820d0f14d6f664f@usd-high-impact": {
+    "uid": "8e2f4820d0f14d6f664f@usd-high-impact",
+    "country": "AUD",
+    "title": "Trimmed Mean CPI m/m",
+    "start": "2026-11-25T00:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.3%",
+    "stamp": "20261122T131735Z"
+  },
+  "d28bee3cc7734880f7f9@usd-high-impact": {
+    "uid": "d28bee3cc7734880f7f9@usd-high-impact",
+    "country": "USD",
+    "title": "Core PCE Price Index m/m",
+    "start": "2026-11-25T13:30:00+00:00",
+    "forecast": "0.3%",
+    "previous": "0.3%",
+    "stamp": "20261122T131735Z"
+  },
+  "d1e299e84b142954e165@usd-high-impact": {
+    "uid": "d1e299e84b142954e165@usd-high-impact",
+    "country": "USD",
+    "title": "Prelim GDP q/q",
+    "start": "2026-11-25T13:30:00+00:00",
+    "forecast": "3.5%",
+    "previous": "3.4%",
+    "stamp": "20261122T131735Z"
   }
 }
