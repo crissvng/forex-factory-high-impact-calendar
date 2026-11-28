@@ -1,40 +1,4 @@
 {
-  "46e35e09930605dfd62f@usd-high-impact": {
-    "uid": "46e35e09930605dfd62f@usd-high-impact",
-    "country": "USD",
-    "title": "CPI m/m",
-    "start": "2026-10-14T12:30:00+00:00",
-    "forecast": "0.6%",
-    "previous": "0.4%",
-    "stamp": "20261011T112455Z"
-  },
-  "d25bcec6a35a830319fd@usd-high-impact": {
-    "uid": "d25bcec6a35a830319fd@usd-high-impact",
-    "country": "USD",
-    "title": "CPI y/y",
-    "start": "2026-10-14T12:30:00+00:00",
-    "forecast": "3.6%",
-    "previous": "3.4%",
-    "stamp": "20261011T112455Z"
-  },
-  "0f64cc4284b6bdc91993@usd-high-impact": {
-    "uid": "0f64cc4284b6bdc91993@usd-high-impact",
-    "country": "USD",
-    "title": "Core CPI m/m",
-    "start": "2026-10-14T12:30:00+00:00",
-    "forecast": "0.2%",
-    "previous": "0.3%",
-    "stamp": "20261011T112455Z"
-  },
-  "33daaa5bf1d40e254d60@usd-high-impact": {
-    "uid": "33daaa5bf1d40e254d60@usd-high-impact",
-    "country": "USD",
-    "title": "Core CPI y/y",
-    "start": "2026-10-14T12:30:00+00:00",
-    "forecast": "2.5%",
-    "previous": "2.4%",
-    "stamp": "20261011T112455Z"
-  },
   "a2069095c9f49aa1f334@usd-high-impact": {
     "uid": "a2069095c9f49aa1f334@usd-high-impact",
     "country": "USD",
